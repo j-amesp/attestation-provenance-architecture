@@ -2,7 +2,7 @@
 
 **Attested Provenance Architecture (APA) — specification, reference schema, and reference implementation**
 
-Copyright © 2026 **[Author — insert legal name / entity]**. All rights reserved.
+Copyright © 2026 James Patrick. All rights reserved.
 
 This is a **source-available, non-permissive licence**. It is **not** an open-source
 licence and is **not** approved by the Open Source Initiative. The Work is made
@@ -111,14 +111,7 @@ mandatory statutory rights.
 
 For any use beyond Evaluation Use, including production, commercial, standards,
 or redistribution rights, contact the Author to request a separate written
-licence:
-
-> **[Author — insert contact email]**
+licence.
 
 ---
 
-*Alternative: if a Creative Commons form is preferred for the specification and
-diagrams (while keeping the code under the terms above), the least-permissive CC
-option is **CC BY-NC-ND 4.0** (attribution, non-commercial, no derivatives).
-This Licence as written is more restrictive and reserves patent rights, which
-CC licences do not.*
